@@ -18,7 +18,7 @@ MASH Game for Web Design 1 at Northwest Vista College
       <p class="description">Fill in the blanks and your future will be foretold.</p>
       <form action="" method="post" id="mash>
                                         <div id="answers" class="hide">
-                                                                      <p>Your home is in <span id="answer_1"></span> with a <span> with a <span id ="answer3"></span> as you are a <span id="answer_2"></span> who owns a <span id ="home"></span>.
+                                                                      <p>Your home is in <span id="answer_1"></span> with a <span id ="answer3"></span> as you are a <span id="answer_2"></span> who owns a <span id ="home"></span>.
                                                                       <div>
                                                                       <div class ="bucket">
                                                                                           <div class ="choice-bucket">
