@@ -2,9 +2,9 @@
 body {
   background: #db9c14;
   color: #021aba;
-  font-family: Papyrus, Arial;
-  font-size: 50px;
-  font-weight: 500;
+  font-family: Papyrus, Papyrus;
+  font-size: 27px;
+  font-weight: 300;
   line-height: 1.65em;
   margin: 0 auto;
   max-width: 960px;
@@ -14,7 +14,7 @@ body {
 
 /* Heading Styles */
 h1 {
-  font-size: 60px;
+  font-size: 40px;
   color: #0a0a0a;
   text-align: center;
 }
